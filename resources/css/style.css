@@ -27,6 +27,11 @@ h5 {
     font-size: 16px;
 }
 
+h6 {
+    color: gray;
+    text-align: right;
+}
+
 a, a:visited {
     text-decoration: underline;
     font-weight: lighter;
